@@ -657,6 +657,10 @@ input[type=number]:focus {
   padding: 0 7px;
 }
 
+.breadcrumbs__link a {
+  color: black;
+}
+
 .breadcrumbs__current {
   color: #FF406E;
 }
@@ -1716,6 +1720,7 @@ body._active {
 .catalog__card-link {
   display: block;
   margin-bottom: 30px;
+  color: black;
 }
 
 .catalog__card {
