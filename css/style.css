@@ -651,6 +651,10 @@ input[type=number]:focus {
   line-height: 120%;
 }
 
+.breadcrumbs__item {
+  color: black;
+}
+
 .breadcrumbs__link::after {
   content: ">";
   display: inline-block;
